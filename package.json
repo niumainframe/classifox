@@ -1,0 +1,32 @@
+{
+  "name": "classifox",
+  "version": "0.0.0",
+  "description": "A new, more modular and extensible front end for WebJCL.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niumainframe/classifox.git"
+  },
+  "keywords": [
+    "jcl",
+    "assembly",
+    "niu",
+    "angular"
+  ],
+  "author": "Nickolas Ruhe nick@zerocaliber.com",
+  "license": "None",
+  "dependencies": {
+    "angular": "^1.3.15",
+    "angular-mocks": "^1.3.15",
+    "angular-ui-router": "^0.2.13",
+    "normalize.css": "^3.0.2",
+    "polyfill-function-prototype-bind": "0.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "less": "^2.4.0"
+  }
+}
